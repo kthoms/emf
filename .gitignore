@@ -1,3 +1,8 @@
 *.swp
+<<<<<<< Upstream, based on origin/master
 */*/target/
 **/.oracle_jre_usage
+=======
+target
+.DS_Store
+>>>>>>> 45d6e70 Bug 529613 - Publish EMF artifacts to Maven Central
